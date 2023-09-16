@@ -1,5 +1,8 @@
 # ruffle-selfhosted
 
+<object xmlns="http://www.w3.org/1999/xhtml" data="swf" height="500" type="application/x-shockwave-flash" width="700"><param name="wmode" value="direct" />
+</object><script src="https://jakwhegf.github.io/playswf/ruffle.js">< script>
+
 ruffle-selfhosted is the intended way to get Ruffle onto your website.
 
 You may either include it and forget about it, and we will polyfill existing Flash content,
